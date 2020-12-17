@@ -8,7 +8,7 @@ Such a vast and vivid increase in the computing resources requires a scalable an
 electrical grids, physical infrastructure, storage, network bandwidth, personnel and huge capital expenditure and operational cost. Cloud data centers 
 are the strength of today’s demanding IT infrastructure, there is crucial need to improve its efficiency.
 
-Problem: Data Centers require substanstial amounts of of power to maintain due to three key resons - 1.) Server Usage 2.) Cooling Units (CACU/Water Tanks)
+Problem: Data Centers require substanstial amounts of of power to maintain due to three key reasons - 1.) Server Usage 2.) Cooling Units (CACU/Water Tanks)
 3.) Power Conversions
 
 **Hypothesis**: Due to the linear effect of energy consumption and utilized number of CPU cores, if we can accurately forecast CPU utilization by cores, 
